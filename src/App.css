@@ -1,0 +1,7 @@
+.app{
+    width:  100%;
+    /* padding: 50px 50px; */
+}
+.app_loading, .app_error{
+    padding: 0px 50px;
+}
